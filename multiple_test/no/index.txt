@@ -1,4 +1,0 @@
-test.txt:bang1.mp4
-test.txt:bang2.mp4
-test.txt:bang3.mp4
-test.txt:bang4.mp4
