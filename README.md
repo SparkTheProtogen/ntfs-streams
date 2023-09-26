@@ -1,5 +1,6 @@
 # ntfs-streams
-##A program for storing files in NTFS alternate data streams
+
+This is a program for writing data into NTFS alternate data streams, currently can only read / write files into streams, more features to come.
 
 The possible modes are:
 + f2s (file to stream): ntfs-streams -m f2s -f file_to_store -s targetfile:targetstream
